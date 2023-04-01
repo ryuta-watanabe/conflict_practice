@@ -78,4 +78,5 @@ Now you have successfully resolved a conflict using Git, GitHub, and pull reques
 
 ## Change Logs
 
+- 2023.04.01: Updated README.md in `add-self-introduction-conflict` branch
 - 2023.04.01: Updated README.md in `main` branch
